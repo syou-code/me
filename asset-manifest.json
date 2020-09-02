@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/syou-code/react_app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/syou-code/react_app/static/js/main.7e0233e9.chunk.js",
-    "main.js.map": "/syou-code/react_app/static/js/main.7e0233e9.chunk.js.map",
-    "runtime-main.js": "/syou-code/react_app/static/js/runtime-main.43367889.js",
-    "runtime-main.js.map": "/syou-code/react_app/static/js/runtime-main.43367889.js.map",
-    "static/js/2.57ea748f.chunk.js": "/syou-code/react_app/static/js/2.57ea748f.chunk.js",
-    "static/js/2.57ea748f.chunk.js.map": "/syou-code/react_app/static/js/2.57ea748f.chunk.js.map",
-    "index.html": "/syou-code/react_app/index.html",
-    "precache-manifest.e916388d1dbf6325fb7f2815db6c684f.js": "/syou-code/react_app/precache-manifest.e916388d1dbf6325fb7f2815db6c684f.js",
-    "service-worker.js": "/syou-code/react_app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/syou-code/react_app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.57ea748f.chunk.js.LICENSE.txt": "/syou-code/react_app/static/js/2.57ea748f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/syou-code/react_app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react_app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react_app/static/js/main.6fd62477.chunk.js",
+    "main.js.map": "/react_app/static/js/main.6fd62477.chunk.js.map",
+    "runtime-main.js": "/react_app/static/js/runtime-main.e9aeb4b3.js",
+    "runtime-main.js.map": "/react_app/static/js/runtime-main.e9aeb4b3.js.map",
+    "static/js/2.57ea748f.chunk.js": "/react_app/static/js/2.57ea748f.chunk.js",
+    "static/js/2.57ea748f.chunk.js.map": "/react_app/static/js/2.57ea748f.chunk.js.map",
+    "index.html": "/react_app/index.html",
+    "precache-manifest.2a26685e6513ece675a467a1e0f19978.js": "/react_app/precache-manifest.2a26685e6513ece675a467a1e0f19978.js",
+    "service-worker.js": "/react_app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react_app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.57ea748f.chunk.js.LICENSE.txt": "/react_app/static/js/2.57ea748f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43367889.js",
+    "static/js/runtime-main.e9aeb4b3.js",
     "static/js/2.57ea748f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7e0233e9.chunk.js"
+    "static/js/main.6fd62477.chunk.js"
   ]
 }
